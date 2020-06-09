@@ -14,7 +14,7 @@ Run the file app.py using streamlit:
 streamlit run app.py
 ```
 You can now view your Streamlit app in your browser.
-[Demo](http://localhost:8501/)
 
 Streamlit changes the web application dynamically as we modify and save the app.py file. Thus, we need not run the file each time we modify.
 
+Checkout the end results here - [Demo](http://localhost:8501/)
