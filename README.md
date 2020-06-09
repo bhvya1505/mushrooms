@@ -15,8 +15,5 @@ streamlit run app.py
 ```
 You can now view your Streamlit app in your browser.
 
-  - Local URL: http://localhost:8501
-  - Network URL: http://192.168.1.195:8501
-
 Streamlit changes the web application dynamically as we modify and save the app.py file. Thus, we need not run the file each time we modify.
 
